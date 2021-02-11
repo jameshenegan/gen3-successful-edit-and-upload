@@ -1,0 +1,9 @@
+{
+  "type": "case",
+  "experiments": [
+    {
+      "submitter_id": "experiment1"
+    }
+  ],
+  "submitter_id": "experiment1case1"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "experiment",
+  "projects": [
+    {
+      "code": "P1"
+    }
+  ],
+  "submitter_id": "experiment1"
+}
